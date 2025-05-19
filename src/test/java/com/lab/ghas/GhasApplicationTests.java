@@ -11,3 +11,9 @@ class GhasApplicationTests {
 	}
 
 }
+@Test
+void testNewMethod() {
+	// This is a new test method
+	// Add your test logic here
+	System.out.println("New test method executed");
+}
